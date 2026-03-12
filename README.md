@@ -74,8 +74,6 @@ return 0;
 ## Output:
 <img width="990" height="317" alt="image" src="https://github.com/user-attachments/assets/9c41a4ef-1515-4089-9b92-0ff39e99dd4c" />
 
-## Result:
-The program is executed successfully.
 
 ## Result:
  The program is executed successfully.
